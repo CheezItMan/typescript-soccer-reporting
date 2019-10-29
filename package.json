@@ -1,0 +1,20 @@
+{
+  "name": "typescript-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheezItMan/typescript-soccer-reporting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheezItMan/typescript-soccer-reporting/issues"
+  },
+  "homepage": "https://github.com/CheezItMan/typescript-soccer-reporting#readme"
+}
